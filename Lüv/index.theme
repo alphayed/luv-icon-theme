@@ -105,6 +105,8 @@ Type=Fixed
 Size=64
 Context=Applications
 Type=Fixed
+MinSize=16
+MaxSize=512
 
 ##############
 
